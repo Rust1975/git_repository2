@@ -12,3 +12,5 @@ def Difference():
     print("Введите еще одно целое число")
     b = int(input())
     print(f'Diff = {a - b}')
+
+#Difference()
